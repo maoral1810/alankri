@@ -1,0 +1,10 @@
+for 100 elements:
+ShakeTime                	0.005
+quickTime                	0.029
+InsertionTime            	0.137
+ShellTime                	0.032
+selctionTime             	0.260
+MargeTime                	0.038
+CountingTime             	0.016
+ItarativeQuickSort       	0.072
+

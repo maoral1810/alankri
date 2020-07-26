@@ -1,0 +1,40 @@
+#ifndef __ERRORS_H__
+#define __ERRORS_H__
+
+typedef enum
+{
+    ERR_OK,
+    SOCKET_FAILED,
+    UNINITIALIZE_VALUE,
+    ALLOCATION_FAILED,
+    SEND_FAILED,
+    OPEN_FILE_FAILED,
+    GENERAL_FAILURE,
+
+    /* server*/
+    BIND_FAILED,
+    INIT_SERVER_FAILED,
+    LISTEN_FAILED,
+    SET_SOCKET_FAILED,
+    ACCEPT_FAILED,
+
+    /* user manager */
+    USER_EXSIST,
+    USER_NOT_EXSIST,
+    WRONG_PASS,
+    USER_ACTIVE_ALLREADEY,
+
+    /*group manager*/
+    GROUP_NOT_EXSIST,
+
+
+    /*client*/
+	CONNECTION_FAILED,
+    SENDING_FAILED,
+    RECIVE_FAILED,
+    INVALID_INFO_FROM_CLIENT,
+    CLIENT_ALREADY_IN_GROUP,
+    CLIENT_NOT_IN_GROUP
+}ERR;
+
+#endif /* __ERRORS_H__ */

@@ -1,0 +1,19 @@
+#ifndef __AD_ERR_H__
+#define __AD_ERR_H__
+
+typedef enum 
+{
+    ERR_OK,
+    NOT_INITILIZE,
+    REALLOC_FAILED,
+    APPOINTMENT_NOT_FOUND,
+    APPOINTMENT_FOUND,
+    INVALIV_INPUT,
+    OVELAPPING,
+    OVERFLOW,
+    UNDERFLOW,
+    OPEN_FILE_FAILED,
+    MEETING_CREATE_FAILED
+}ADerr;
+
+#endif /* __AD_ERR_H__ */

@@ -1,0 +1,53 @@
+trace in file:  scheduler.c  in function: SchDestroy  in line:  52 time: 0 scheduler destroyed
+trace in file:  task.c  in function: TaskCreate  in line:  35 time: 0 task create
+trace in file:  scheduler.c  in function: SchAdd  in line:  77 time: 0 add task succsess
+trace in file:  task.c  in function: TaskCreate  in line:  35 time: 0 task create
+trace in file:  scheduler.c  in function: SchAdd  in line:  77 time: 0 add task succsess
+trace in file:  task.c  in function: TaskCreate  in line:  35 time: 0 task create
+trace in file:  scheduler.c  in function: SchAdd  in line:  77 time: 0 add task succsess
+trace in file:  task.c  in function: TaskCreate  in line:  35 time: 0 task create
+trace in file:  scheduler.c  in function: SchAdd  in line:  77 time: 0 add task succsess
+trace in file:  task.c  in function: TaskCreate  in line:  35 time: 0 task create
+trace in file:  scheduler.c  in function: SchAdd  in line:  77 time: 0 add task succsess
+trace in file:  task.c  in function: TaskRun  in line:  50 time: 0 task run
+trace in file:  timer.c  in function: GoToSleep  in line:  50 time: 0 go to sleep before running
+trace in file:  task.c  in function: TaskDestroy  in line:  42 time: 0 task finish! task destroy
+trace in file:  task.c  in function: TaskRun  in line:  50 time: 0 task run
+trace in file:  timer.c  in function: GoToSleep  in line:  50 time: 0 go to sleep before running
+trace in file:  task.c  in function: TaskDestroy  in line:  42 time: 0 task finish! task destroy
+trace in file:  task.c  in function: TaskRun  in line:  50 time: 0 task run
+trace in file:  timer.c  in function: GoToSleep  in line:  50 time: 0 go to sleep before running
+trace in file:  task.c  in function: TaskDestroy  in line:  42 time: 0 task finish! task destroy
+trace in file:  task.c  in function: TaskRun  in line:  50 time: 0 task run
+trace in file:  timer.c  in function: GoToSleep  in line:  50 time: 0 go to sleep before running
+trace in file:  task.c  in function: TaskDestroy  in line:  42 time: 0 task finish! task destroy
+trace in file:  task.c  in function: TaskRun  in line:  50 time: 0 task run
+trace in file:  timer.c  in function: GoToSleep  in line:  50 time: 0 go to sleep before running
+trace in file:  task.c  in function: TaskDestroy  in line:  42 time: 0 task finish! task destroy
+trace in file:  scheduler.c  in function: SchDestroy  in line:  52 time: 0 scheduler destroyed
+trace in file:  task.c  in function: TaskCreate  in line:  35 time: 0 task create
+trace in file:  scheduler.c  in function: SchAdd  in line:  77 time: 0 add task succsess
+trace in file:  task.c  in function: TaskCreate  in line:  35 time: 0 task create
+trace in file:  scheduler.c  in function: SchAdd  in line:  77 time: 0 add task succsess
+trace in file:  task.c  in function: TaskCreate  in line:  35 time: 0 task create
+trace in file:  scheduler.c  in function: SchAdd  in line:  77 time: 0 add task succsess
+trace in file:  task.c  in function: TaskCreate  in line:  35 time: 0 task create
+trace in file:  scheduler.c  in function: SchAdd  in line:  77 time: 0 add task succsess
+trace in file:  task.c  in function: TaskCreate  in line:  35 time: 0 task create
+trace in file:  scheduler.c  in function: SchAdd  in line:  77 time: 0 add task succsess
+trace in file:  task.c  in function: TaskRun  in line:  50 time: 0 task run
+trace in file:  timer.c  in function: GoToSleep  in line:  50 time: 0 go to sleep before running
+trace in file:  task.c  in function: TaskDestroy  in line:  42 time: 0 task finish! task destroy
+trace in file:  task.c  in function: TaskRun  in line:  50 time: 0 task run
+trace in file:  timer.c  in function: GoToSleep  in line:  50 time: 0 go to sleep before running
+trace in file:  task.c  in function: TaskDestroy  in line:  42 time: 0 task finish! task destroy
+trace in file:  task.c  in function: TaskRun  in line:  50 time: 0 task run
+trace in file:  timer.c  in function: GoToSleep  in line:  50 time: 0 go to sleep before running
+trace in file:  task.c  in function: TaskDestroy  in line:  42 time: 1000 task finish! task destroy
+trace in file:  task.c  in function: TaskRun  in line:  50 time: 1000 task run
+trace in file:  timer.c  in function: GoToSleep  in line:  50 time: 1000 go to sleep before running
+trace in file:  task.c  in function: TaskDestroy  in line:  42 time: 2000 task finish! task destroy
+trace in file:  task.c  in function: TaskRun  in line:  50 time: 2000 task run
+trace in file:  timer.c  in function: GoToSleep  in line:  50 time: 2000 go to sleep before running
+trace in file:  task.c  in function: TaskDestroy  in line:  42 time: 6000 task finish! task destroy
+trace in file:  scheduler.c  in function: SchDestroy  in line:  52 time: 6000 scheduler destroyed

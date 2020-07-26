@@ -1,0 +1,15 @@
+#ifndef __HEARTS_ERR_H__
+#define __HEARTS_ERR_H__
+
+typedef enum
+{
+	HEARTS_OK = 1000,
+	HEARTS_NOT_INITIALIZED,
+	HEARTS_WRONG_CARD,
+	HEARTS_FULL_SUIT,
+	HEARTS_EMPTY_SUIT,
+	HEARTS_ALLOCATION_FAILED
+	
+} heartsErr;
+
+#endif /* __HEARTS_ERR_H__ */

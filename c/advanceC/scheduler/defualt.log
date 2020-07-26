@@ -1,0 +1,7 @@
+trace in file:  scheduler.c  in function: SchAdd  in line:  78 time: 0.00 add task succsess
+trace in file:  scheduler.c  in function: SchAdd  in line:  78 time: 0.00 add task succsess
+trace in file:  scheduler.c  in function: SchAdd  in line:  78 time: 0.00 add task succsess
+trace in file:  scheduler.c  in function: SchAdd  in line:  78 time: 0.00 add task succsess
+trace in file:  scheduler.c  in function: SchAdd  in line:  78 time: 0.00 add task succsess
+ in file:  task.c  in function: TaskRun  in line:  48 time: 0.00 task run
+ in file:  timer.c  in function: GoToSleep  in line:  50 time: 0.00 go to sleep before running
