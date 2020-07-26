@@ -1,0 +1,6 @@
+42
+controller:room_1_a:-5:payload:log_name:AC_controller:room_4_g~2~tempature~:
+controller:room_1_b:5:payload:log_name:fire_controller:room_0_c~40~smoke~room_10_f~32~smoke~:
+sensor:room_0_c:40:payload:log_name:smoke_detector:smoke^:
+sensor:room_10_f:32:payload:log_name:smoke_detector:smoke^:
+sensor:room_4_g:2:payload:log_name:tempture_detector:tempature^:
