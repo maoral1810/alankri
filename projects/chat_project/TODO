@@ -1,0 +1,9 @@
+client:
+
+1) print a user is already connecting when you try to connect with the same user name
+2) logout user
+3) close 2 windows when you leave group( close other window when the second is close)
+4) leave group
+
+server:
+
