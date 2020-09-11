@@ -48,6 +48,7 @@ parameters:
 
 return element in top of stack.
 if stack is empty or st is NULL behaviour is undefined */
+
 int IntStackPeek(intstack_t *st_int);
 
 /*  returns number of elements in stack

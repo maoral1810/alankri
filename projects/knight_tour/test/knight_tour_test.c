@@ -2,7 +2,7 @@
 #include <stdlib.h> /* malloc, free */
 #include <assert.h> /* assert */
 #include <stdio.h>  /* printf */
-#include <time.h>  /* time */
+#include <time.h>   /* time */
 #include <string.h> /* memset */
 
 #include "knight_tour.h"
