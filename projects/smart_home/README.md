@@ -1,4 +1,4 @@
-* welcome!!! i happy to see you interested my program
+* welcome!!! i happy to see you interested my program |
  author: Maor Alankri | last update: 15.05.2020*
 
 # smart_home
