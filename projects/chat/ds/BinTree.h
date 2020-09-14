@@ -2,9 +2,7 @@
 #define __BSTREE_H__
 
 #include <stddef.h>  /* size_t */
-
-#define TRUE  1
-#define FALSE 0
+#include "common_utils.h"
 
 /** 
  *  @file BSTree.h

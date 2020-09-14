@@ -3,8 +3,6 @@
 
 #include "List.h"
 
-#define TRUE  1
-#define FALSE 0
 
 /** 
  * @brief Module for iteators on double linked list. 

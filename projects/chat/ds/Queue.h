@@ -1,9 +1,6 @@
 #ifndef __QUEUE_H__
 #define __QUEUE_H__
 
-#define TRUE  1
-#define FALSE 0
-
 /** 
  * @brief Create a Generic Queue data type of a given size
  * that stores pointer to user provided elements of generic type
